@@ -1,0 +1,5 @@
+{
+  "name": "Google Ads Campaign Generator",
+  "description": "An AI-powered tool to transform a list of keywords into structured, themed ad groups with compelling headlines and descriptions, ready for download.",
+  "requestFramePermissions": []
+}
