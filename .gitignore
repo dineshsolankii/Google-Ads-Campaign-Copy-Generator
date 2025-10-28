@@ -32,3 +32,8 @@ dist-ssr
 
 # Vercel
 .vercel
+
+venv/
+venv
+.venv
+
